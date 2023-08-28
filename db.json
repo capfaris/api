@@ -1,11 +1,5 @@
-{
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+[
+  ["Dataset 1", "Dataset 2", "Dataset 3"],
+  [100,200,300],
+  [120,170,320]
+]
